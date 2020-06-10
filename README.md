@@ -1,5 +1,9 @@
 # Stream Simulator
 
+Below is a screenshot of the graphical user interface used primarily to build simulation scenarios that can easily be simulated using either the GUI or CLI (more performance!).
+
+![Screenshot](docs/res/screenshot.png)
+
 ## Getting started
 
 The application used Gradle as build tool.
