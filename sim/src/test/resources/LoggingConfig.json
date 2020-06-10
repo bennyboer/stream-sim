@@ -1,0 +1,136 @@
+{
+  "rows" : 20,
+  "columns" : 20,
+  "seed" : 633698780,
+  "cellDescriptors" : {
+    "R9C9" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 9,
+        "column" : 9
+      }
+    },
+    "R8C9" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 8,
+        "column" : 9
+      }
+    },
+    "R7C9" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 7,
+        "column" : 9
+      }
+    },
+    "R6C9" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 6,
+        "column" : 9
+      }
+    },
+    "R5C9" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 5,
+        "column" : 9
+      }
+    },
+    "R4C9" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 4,
+        "column" : 9
+      }
+    },
+    "R8C15" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 8,
+        "column" : 15
+      }
+    },
+    "R8C3" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 8,
+        "column" : 3
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Fixed rate",
+          "fixedRate" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Euclidean",
+          "mollifierConfiguration" : {
+            "range" : 2,
+            "strength" : 1.5
+          },
+          "radius" : 3
+        },
+        "maxSpawns" : 10,
+        "speedGenerator" : {
+          "@type" : "Fixed",
+          "speed" : 3.34,
+          "name" : "Fixed"
+        },
+        "patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 20,
+          "maxDeviation" : 10
+        }
+      }
+    },
+    "R7C3" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 7,
+        "column" : 3
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Fixed rate",
+          "fixedRate" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Euclidean",
+          "mollifierConfiguration" : {
+            "range" : 2,
+            "strength" : 1.5
+          },
+          "radius" : 3
+        },
+        "maxSpawns" : 10,
+        "speedGenerator" : {
+          "@type" : "Fixed",
+          "speed" : 3.34,
+          "name" : "Fixed"
+        },
+        "patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 20,
+          "maxDeviation" : 10
+        }
+      }
+    },
+    "R11C9" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 11,
+        "column" : 9
+      }
+    },
+    "R10C9" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 10,
+        "column" : 9
+      }
+    }
+  }
+}

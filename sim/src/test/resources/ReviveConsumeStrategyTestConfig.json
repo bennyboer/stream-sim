@@ -1,0 +1,53 @@
+{
+  "rows" : 5,
+  "columns" : 5,
+  "seed" : 564704479,
+  "cellDescriptors" : {
+    "R0C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 0,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Fixed rate",
+          "fixedRate" : 10
+        },
+        "moveStrategy" : {
+          "@type" : "Euclidean",
+          "mollifierConfiguration" : {
+            "range" : 2,
+            "strength" : 1.5
+          },
+          "radius" : 3
+        },
+        "maxSpawns" : 1,
+        "speedGenerator" : {
+          "@type" : "Fixed",
+          "speed" : 3.34,
+          "name" : "Fixed"
+        },
+        "patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 20,
+          "maxDeviation" : 10
+        }
+      }
+    },
+    "R4C4" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 4,
+        "column" : 4
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    }
+  }
+}

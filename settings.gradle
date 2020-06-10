@@ -1,0 +1,5 @@
+rootProject.name = 'stream-sim'
+
+include 'sim'
+include 'ui'
+include 'cli'

@@ -1,0 +1,24 @@
+.scroll-pane {
+    -fx-background-color: transparent !important;
+}
+
+.scroll-pane > .viewport {
+    -fx-background-color: transparent !important;
+}
+
+.chart-plot-background {
+    -fx-background-color: rgba(0, 0, 0, 0.1) !important;
+}
+
+.chart-title {
+    -fx-wrap-text: true;
+    -fx-alignment: center;
+}
+
+.chart-vertical-grid-lines {
+    -fx-stroke: rgba(0, 0, 0, 0.3) !important;
+}
+
+.chart-horizontal-grid-lines {
+    -fx-stroke: rgba(0, 0, 0, 0.3) !important;
+}

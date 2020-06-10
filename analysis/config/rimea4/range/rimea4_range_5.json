@@ -1,0 +1,1627 @@
+{
+  "rows" : 30,
+  "columns" : 163,
+  "seed" : 331810044,
+  "cellDescriptors" : {
+    "R0C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 0,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R29C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 29,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R14C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 14,
+        "column" : 81
+      }
+    },
+    "R28C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 28,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R25C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 25,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R10C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 10,
+        "column" : 81
+      }
+    },
+    "R24C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 24,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R21C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 21,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R6C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 6,
+        "column" : 81
+      }
+    },
+    "R20C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 20,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R17C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 17,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R2C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 2,
+        "column" : 81
+      }
+    },
+    "R16C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 16,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R13C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 13,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R12C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 12,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R27C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 27,
+        "column" : 81
+      }
+    },
+    "R9C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 9,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R8C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 8,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R23C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 23,
+        "column" : 81
+      }
+    },
+    "R5C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 5,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R4C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 4,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R19C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 19,
+        "column" : 81
+      }
+    },
+    "R1C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 1,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R0C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 0,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R15C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 15,
+        "column" : 81
+      }
+    },
+    "R29C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 29,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R26C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 26,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R11C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 11,
+        "column" : 81
+      }
+    },
+    "R25C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 25,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R22C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 22,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R7C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 7,
+        "column" : 81
+      }
+    },
+    "R21C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 21,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R18C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 18,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R3C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 3,
+        "column" : 81
+      }
+    },
+    "R17C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 17,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R14C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 14,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R13C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 13,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R28C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 28,
+        "column" : 81
+      }
+    },
+    "R10C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 10,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R9C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 9,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R24C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 24,
+        "column" : 81
+      }
+    },
+    "R6C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 6,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R5C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 5,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R20C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 20,
+        "column" : 81
+      }
+    },
+    "R2C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 2,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R1C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 1,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R16C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 16,
+        "column" : 81
+      }
+    },
+    "R27C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 27,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R12C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 12,
+        "column" : 81
+      }
+    },
+    "R26C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 26,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R23C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 23,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R8C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 8,
+        "column" : 81
+      }
+    },
+    "R22C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 22,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R19C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 19,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R4C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 4,
+        "column" : 81
+      }
+    },
+    "R18C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 18,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R15C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 15,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R0C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 0,
+        "column" : 81
+      }
+    },
+    "R14C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 14,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R29C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 29,
+        "column" : 81
+      }
+    },
+    "R11C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 11,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R10C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 10,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R25C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 25,
+        "column" : 81
+      }
+    },
+    "R7C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 7,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R6C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 6,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R21C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 21,
+        "column" : 81
+      }
+    },
+    "R3C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 3,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R2C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 2,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R17C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 17,
+        "column" : 81
+      }
+    },
+    "R28C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 28,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R13C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 13,
+        "column" : 81
+      }
+    },
+    "R27C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 27,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R24C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 24,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R9C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 9,
+        "column" : 81
+      }
+    },
+    "R23C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 23,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R20C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 20,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R5C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 5,
+        "column" : 81
+      }
+    },
+    "R19C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 19,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R16C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 16,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R1C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 1,
+        "column" : 81
+      }
+    },
+    "R15C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 15,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R12C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 12,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R11C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 11,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R26C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 26,
+        "column" : 81
+      }
+    },
+    "R8C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 8,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R7C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 7,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R22C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 22,
+        "column" : 81
+      }
+    },
+    "R4C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 4,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Poisson",
+          "lambda" : 10.0
+        },
+        "moveStrategy" : {
+          "@type" : "Fast marching method",
+          "mollifierConfiguration" : {
+            "range" : 5,
+            "strength" : 1.5
+          },
+          "radius" : 6
+        },
+        "maxSpawns" : -1,
+        "speedGenerator" : {
+          "@type" : "Norm",
+          "meanExpectation" : 3.34,
+          "standardDeviation" : 0.65,
+          "name" : "Norm"
+        },
+		"patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 10,
+          "maxDeviation" : 5
+        }
+      }
+    },
+    "R3C162" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 3,
+        "column" : 162
+      },
+      "configuration" : {
+        "@type" : "Target",
+        "consumeStrategy" : {
+          "@type" : "Revive"
+        }
+      }
+    },
+    "R18C81" : {
+      "typeID" : 5,
+      "location" : {
+        "row" : 18,
+        "column" : 81
+      }
+    }
+  }
+}

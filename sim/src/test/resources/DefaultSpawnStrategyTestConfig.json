@@ -1,0 +1,21 @@
+{
+  "rows" : 20,
+  "columns" : 20,
+  "seed" : 832948337,
+  "cellDescriptors" : {
+    "R14C2" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 14,
+        "column" : 2
+      }
+    },
+    "R1C11" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 1,
+        "column" : 11
+      }
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "rows" : 11,
+  "columns" : 20,
+  "seed" : 34767872,
+  "cellDescriptors" : {
+    "R9C10" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 9,
+        "column" : 10
+      }
+    },
+    "R8C10" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 8,
+        "column" : 10
+      }
+    },
+    "R7C10" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 7,
+        "column" : 10
+      }
+    },
+    "R6C10" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 6,
+        "column" : 10
+      }
+    },
+    "R5C10" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 5,
+        "column" : 10
+      }
+    },
+    "R4C10" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 4,
+        "column" : 10
+      }
+    },
+    "R3C10" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 3,
+        "column" : 10
+      }
+    },
+    "R2C10" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 2,
+        "column" : 10
+      }
+    },
+    "R1C10" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 1,
+        "column" : 10
+      }
+    },
+    "R0C10" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 0,
+        "column" : 10
+      }
+    },
+    "R5C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 5,
+        "column" : 0
+      }
+    },
+    "R5C19" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 5,
+        "column" : 19
+      }
+    }
+  }
+}

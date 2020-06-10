@@ -1,0 +1,432 @@
+{
+  "rows" : 41,
+  "columns" : 60,
+  "seed" : 826686904,
+  "cellDescriptors" : {
+    "R36C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 36,
+        "column" : 36
+      }
+    },
+    "R3C35" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 3,
+        "column" : 35
+      }
+    },
+    "R3C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 3,
+        "column" : 36
+      }
+    },
+    "R32C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 32,
+        "column" : 36
+      }
+    },
+    "R28C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 28,
+        "column" : 36
+      }
+    },
+    "R24C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 24,
+        "column" : 36
+      }
+    },
+    "R20C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 20,
+        "column" : 36
+      }
+    },
+    "R16C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 16,
+        "column" : 36
+      }
+    },
+    "R37C26" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 37,
+        "column" : 26
+      }
+    },
+    "R37C27" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 37,
+        "column" : 27
+      }
+    },
+    "R37C28" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 37,
+        "column" : 28
+      }
+    },
+    "R12C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 12,
+        "column" : 36
+      }
+    },
+    "R37C29" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 37,
+        "column" : 29
+      }
+    },
+    "R37C30" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 37,
+        "column" : 30
+      }
+    },
+    "R37C31" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 37,
+        "column" : 31
+      }
+    },
+    "R37C32" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 37,
+        "column" : 32
+      }
+    },
+    "R8C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 8,
+        "column" : 36
+      }
+    },
+    "R37C33" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 37,
+        "column" : 33
+      }
+    },
+    "R37C34" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 37,
+        "column" : 34
+      }
+    },
+    "R37C35" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 37,
+        "column" : 35
+      }
+    },
+    "R37C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 37,
+        "column" : 36
+      }
+    },
+    "R4C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 4,
+        "column" : 36
+      }
+    },
+    "R33C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 33,
+        "column" : 36
+      }
+    },
+    "R20C59" : {
+      "typeID" : 4,
+      "location" : {
+        "row" : 20,
+        "column" : 59
+      }
+    },
+    "R29C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 29,
+        "column" : 36
+      }
+    },
+    "R25C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 25,
+        "column" : 36
+      }
+    },
+    "R21C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 21,
+        "column" : 36
+      }
+    },
+    "R17C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 17,
+        "column" : 36
+      }
+    },
+    "R13C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 13,
+        "column" : 36
+      }
+    },
+    "R9C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 9,
+        "column" : 36
+      }
+    },
+    "R5C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 5,
+        "column" : 36
+      }
+    },
+    "R34C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 34,
+        "column" : 36
+      }
+    },
+    "R30C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 30,
+        "column" : 36
+      }
+    },
+    "R26C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 26,
+        "column" : 36
+      }
+    },
+    "R22C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 22,
+        "column" : 36
+      }
+    },
+    "R18C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 18,
+        "column" : 36
+      }
+    },
+    "R14C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 14,
+        "column" : 36
+      }
+    },
+    "R10C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 10,
+        "column" : 36
+      }
+    },
+    "R6C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 6,
+        "column" : 36
+      }
+    },
+    "R35C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 35,
+        "column" : 36
+      }
+    },
+    "R31C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 31,
+        "column" : 36
+      }
+    },
+    "R27C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 27,
+        "column" : 36
+      }
+    },
+    "R20C0" : {
+      "typeID" : 3,
+      "location" : {
+        "row" : 20,
+        "column" : 0
+      },
+      "configuration" : {
+        "@type" : "Source",
+        "spawnStrategy" : {
+          "@type" : "Fixed rate",
+          "fixedRate" : 10
+        },
+        "moveStrategy" : {
+          "@type" : "Euclidean",
+          "mollifierConfiguration" : {
+            "range" : 2,
+            "strength" : 1.5
+          },
+          "radius" : 3
+        },
+        "maxSpawns" : 10,
+        "speedGenerator" : {
+          "@type" : "Fixed",
+          "speed" : 3.34,
+          "name" : "Fixed"
+        },
+        "patienceGenerator" : {
+          "@type" : "Norm",
+          "mean" : 20,
+          "maxDeviation" : 10
+        }
+      }
+    },
+    "R23C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 23,
+        "column" : 36
+      }
+    },
+    "R19C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 19,
+        "column" : 36
+      }
+    },
+    "R15C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 15,
+        "column" : 36
+      }
+    },
+    "R3C26" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 3,
+        "column" : 26
+      }
+    },
+    "R3C27" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 3,
+        "column" : 27
+      }
+    },
+    "R11C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 11,
+        "column" : 36
+      }
+    },
+    "R3C28" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 3,
+        "column" : 28
+      }
+    },
+    "R3C29" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 3,
+        "column" : 29
+      }
+    },
+    "R3C30" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 3,
+        "column" : 30
+      }
+    },
+    "R3C31" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 3,
+        "column" : 31
+      }
+    },
+    "R3C32" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 3,
+        "column" : 32
+      }
+    },
+    "R7C36" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 7,
+        "column" : 36
+      }
+    },
+    "R3C33" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 3,
+        "column" : 33
+      }
+    },
+    "R3C34" : {
+      "typeID" : 2,
+      "location" : {
+        "row" : 3,
+        "column" : 34
+      }
+    }
+  }
+}
